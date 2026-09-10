@@ -1,8 +1,26 @@
 # Artificial-Intelligence-Course
-AI Lab — Julia Fractal
-Name: Shahzain Ali
-CMS: 561012
+Project Description
+A Python project that generates beautiful fractal designs using mathematical formulas and visualizes them as high-resolution images.
 
-Summary
-In this AI lab, I used AI gemini to help write a Python program that generates a Julia fractal using NumPy and Matplotlib. The program creates a high-resolution black-and-white fractal image that can be used as a T-shirt design.
-Then I used canva ai to fit the design into the shirt
+Fractal Type
+Julia Set Fractal
+Tools & Technologies
+Python
+NumPy
+Matplotlib
+AI assistance for code development
+Setup & Run
+Install the required libraries:
+
+pip install numpy matplotlib
+
+Run the Python program:
+
+python generate_fractal.py
+
+The generated fractal image will be saved as a PNG file.
+
+Output
+Student Information
+Name: Shahzain Ali
+Registration/CMS: 561012
